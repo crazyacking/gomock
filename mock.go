@@ -1,7 +1,7 @@
-package mock
+package main
 import "fmt"
 
-func mockp() {
+func main() {
     fmt.Println("hello world")
 }
 
